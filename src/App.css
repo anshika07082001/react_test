@@ -1,5 +1,7 @@
 .App {
   text-align: center;
+  height: 600px;
+  width: 100%;
 }
 
 .App-logo {
@@ -35,4 +37,15 @@
   to {
     transform: rotate(360deg);
   }
+}
+
+
+/* my editing */
+#light{
+  background-color: white;
+  color: black;
+}
+#dark{
+  background-color: black;
+  color: white;
 }
